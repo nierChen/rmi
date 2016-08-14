@@ -3,6 +3,7 @@ package test1;
 import java.io.Serializable;
 
 // 注意对象必须继承Serializable
+
 public class PersonEntity implements Serializable {
     private int id;
 
